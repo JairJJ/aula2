@@ -1,0 +1,9 @@
+# Multiplicação
+
+A função de multiplicação recebe uma lista de números e retorna a multiplicação desses elementos.
+
+eg:
+```
+multiplicacao(1, 2, 3, 4, 5)
+120
+```

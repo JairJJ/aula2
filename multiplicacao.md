@@ -5,5 +5,6 @@ A função de multiplicação recebe uma lista de números e retorna a multiplic
 eg:
 ```
 multiplicacao(1, 2, 3, 4, 5)
-120
+150
 ```
+texto teste

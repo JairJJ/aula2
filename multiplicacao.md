@@ -2,8 +2,8 @@
 
 A função de multiplicação recebe uma lista de números e retorna a multiplicação desses elementos.
 
-eg:
-```
+ex:
+```python
 multiplicacao(1, 2, 3, 4, 5)
 120
 ```
